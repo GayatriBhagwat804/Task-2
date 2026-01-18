@@ -1,2 +1,2 @@
 # Task-2
-Customer Segmentation 
+Customer Segmentation using Clustering
